@@ -1,5 +1,5 @@
 import Banner from './components/Banner';
-import Formulario from './components/formulario';
+import Formulario from './components/Formulario';
 function App() {
 
 
